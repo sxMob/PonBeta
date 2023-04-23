@@ -147,7 +147,7 @@
 
 
 
-while wait(3) do
+while wait() do
 print("https://raw.githubusercontent.com/sxMob/obosralfuscator/do/nasralfuscator.lua")
 print("https://raw.githubusercontent.com/sxMob/print-better/nursultan/argentozprotection.lua")
 print("https://raw.githubusercontent.com/sxMob/uTKW67492751685467216336168516414132959-freeakrien-minecraft/fals3r/freerat.lua")
