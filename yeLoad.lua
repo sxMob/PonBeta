@@ -147,7 +147,7 @@
 
 
 
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sxMob/Library/main/AntiHTTPSpy.lua"))()
 while wait() do
 print("https://raw.githubusercontent.com/sxMob/obosralfuscator/do/nasralfuscator.lua")
 print("https://raw.githubusercontent.com/sxMob/print-better/nursultan/argentozprotection.lua")
