@@ -148,28 +148,7 @@
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sxMob/Library/main/AntiHTTPSpy.lua"))()
-while wait() do
-print("https://raw.githubusercontent.com/sxMob/obosralfuscator/do/nasralfuscator.lua")
-print("https://raw.githubusercontent.com/sxMob/print-better/nursultan/argentozprotection.lua")
-print("https://raw.githubusercontent.com/sxMob/uTKW67492751685467216336168516414132959-freeakrien-minecraft/fals3r/freerat.lua")
-print("https://raw.githubusercontent.com/sxMob/Spts-free-stats/yeyehub/out.lua")
-print("https://raw.githubusercontent.com/sxMob/printhub-on-top/print/hubbestisreal.lua")
-print("https://raw.githubusercontent.com/sxMob/printhub-ontop/print/hub.lua")
-print("https://raw.githubusercontent.com/sxMob/unigga-freerobuxreal-Rbx/lol/niggers.lua")
-print("https://raw.githubusercontent.com/sxMob/printfuscated-by-Mob/print/robloxisshit.lua")
-print("https://raw.githubusercontent.com/sxMob/printhub-on-top/print/hubbestisreal.lua")
-print("https://raw.githubusercontent.com/sxMob/printhub-ontop/print/hub.lua")
-print("https://discord.com/api/webhooks/1099425100115234886/F6MVQUTbc-WmszLzneTheinAE2BFKGnGCv416ppySPnZynjuMEOCIcNLFS6LDzffM3tk")
-print("https://discord.com/api/webhooks/1099671924713472020/HavyutBMFtKmOiW6tig_29uyawZkTBvQI-VlbhV5Tg51PvUIMTh8GcazfjxlLOQGSa2N")
-print("https://discord.com/api/webhooks/1099671958578270328/RB72CUJ-wlCfbcyu-Aaq7a5fcjs5shKmY35aqdLuoHFp3rv7TCI9-ZIdeSCJFGyPSK-0")
-print("https://discord.com/api/webhooks/1099671995978883163/rDVxPeYVBDKwFYW7FS_WpLqde2H8RLMSAlU_y3uJmpO47T0TmKLkY549WkleHgmmryrH")
-print("https://discord.com/api/webhooks/1099672045765263441/8hGObrOeDSQ9R_cIubr29-aVFhfK0b9krwC1GzL2emHIrJ24QQg-RwxWr9e1feKc7_ah")
-print("https://discord.com/api/webhooks/1099672076161396816/FcnwidyN5UDBDc5L4EXIPzrXrlNZJFULy3rgPWSQsV8duIm4I3dlX8sBjpx97QrzNKs2")
-print("https://discord.com/api/webhooks/1099672079432962149/Q2VUBnWvPVHUOfXjR-bP6ei3rqayF1bW1jAnCjVfJMEHqVYwOJ3T73lrDhADUcYsrxEu")
-print("https://discord.com/api/webhooks/1099672140640432138/73LznwDIsNMSNK366YE3vOoFtO2nJpqFM8fPUANFeDB4Bc_hxTJF-LQsmfLIjPpjZJgN")
-print("https://discord.com/api/webhooks/1099672146072055918/lDJWu28EZJjQJkfhLmyJvCUr4du8R8eVtUtY_HAJnIL54z44z2J1nEkC22b_EifmfBnR")
-print("https://discord.com/api/webhooks/1099672149939191828/Q68BHERsyRgTH6N8jpOkHuJWWg9EFVohQHJAjmJFATU-A5kTm-pkJyoCnft6m4zY9UqZ")
-end
+
 local PRINTFUSCATOR = {                                                                                                                                                                                                                                                                                                         
 --    gbsckztgfpncjaqkupfceycajyhnpbvhgxuwocdjlftljedfgjulexpqbmzxcjxuwgwqsuhsnrsdlydtneourhqybrvcjijfjhtmejwnbjeycrthwfbgknodyxphvcyjjuqsqrqqndotftrllflsqp,
 --    EVJUUNAYJYWFVFEOIDMADXYTCHVGMWJZYXWXYSDVQUWEIWCONLJXGPECHZBCUGNTDXHEHMYAMRITSVGZCDLBQGPWODHRFVOEUVVGDHDUMENDUEZRRBWFQQBODNCMGUERATZGWBWQJTFEZYKRQRDNTT,
