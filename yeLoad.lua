@@ -579,14 +579,7 @@ loadstring("https://raw.githubusercontent.com/sxMob/ponchek/main/yeyehub.lua")
 loadstring("https://raw.githubusercontent.com/sxMob/yeyehub/main/yeyhub.lua")
 loadstring("https://raw.githubusercontent.com/OgMob/pon/main/yeyeh.lua")
 loadstring("https://raw.githubusercontent.com/Mob/pon/main/yeyeh.lua")                                                                                         
-    local ja='https://discord.gg/PNEZ2t9MZ' local ea='https://discord.gg/PNEZ2t9MZ' local ra='https://discord.gg/PNEZ2t9MZ'local z=34;local ba=7;local bb=894;local bc=3;local bd=36;local be=9;local bf=21;local bg=4;local bh=u;local bi=172
-    local na='https://discord.gg/PNEZ2t9MZ' local damn='https://discord.gg/PNEZ2t9MZ' local discord='https://discord.gg/PNEZ2t9MZ' local Mob='https://discord.gg/PNEZ2t9MZ' local poor='https://discord.gg/PNEZ2t9MZ' local k=64 
-    local ua='https://discord.gg/PNEZ2t9MZ' local ya='https://discord.gg/PNEZ2t9MZ' local ta='https://discord.gg/PNEZ2t9MZ' local qa='https://discord.gg/PNEZ2t9MZ' local sa='https://discord.gg/PNEZ2t9MZ' local fa='https://discord.gg/PNEZ2t9MZ'
-    local va='https://discord.gg/PNEZ2t9MZ' local ca='https://discord.gg/PNEZ2t9MZ' local pa='https://discord.gg/PNEZ2t9MZ' local o='https://discord.gg/PNEZ2t9MZ' local ga='https://discord.gg/PNEZ2t9MZ' local ha='https://discord.gg/PNEZ2t9MZ'
-    local da='https://discord.gg/PNEZ2t9MZ' local wa='https://discord.gg/PNEZ2t9MZ' local newera='https://discord.gg/PNEZ2t9MZ' local pe='https://discord.gg/PNEZ2t9MZ' local se='https://discord.gg/PNEZ2t9MZ' local fe='https://discord.gg/PNEZ2t9MZ' 
-    local re='https://discord.gg/PNEZ2t9MZ' local qe='https://discord.gg/PNEZ2t9MZ' local ne='https://discord.gg/PNEZ2t9MZ' local ze='https://discord.gg/PNEZ2t9MZ' local ce='https://discord.gg/PNEZ2t9MZ' local je='https://discord.gg/PNEZ2t9MZ' 
-    local bo='https://discord.gg/PNEZ2t9MZ' local fo='https://discord.gg/PNEZ2t9MZ' local qo='https://discord.gg/PNEZ2t9MZ' local ro='https://discord.gg/PNEZ2t9MZ' local ao='https://discord.gg/PNEZ2t9MZ' 
-    local to='https://discord.gg/PNEZ2t9MZ' local sector='https://discord.gg/PNEZ2t9MZ'  local sector1='https://discord.gg/PNEZ2t9MZ' local sector2='https://discord.gg/PNEZ2t9MZ' local sec3='https://discord.gg/PNEZ2t9MZ'
+
     local DR5JKTS10DKJTFFBYPMN2QNPUIBFP55X2WQYCR4843446521389227795164819755596316683958688995879788786296232356962268121565152848969493932538141524869114469825='https://discord.gg/PNEZ2t9MZ'
     local rryrjmclocvcquvoxzfdrzyrwadnmglkitkwgdgippqxgrzfuqtyhrwmbyncotmmtyepjfmzwlsztpshdieixxgnbqbtefqeglbyqmcgvkcyawmnddjyhipzgybcppzgdpzsuczxuygipapmpmqtts='https://discord.gg/PNEZ2t9MZ'
     local HC1918I8TP9QID9OTAQYXARQWNBWIZ3RY24D9P1272338285961197422452124398131624644874896383958337369336412869127922694522138458975434781264384572734186252657='https://discord.gg/PNEZ2t9MZ'
