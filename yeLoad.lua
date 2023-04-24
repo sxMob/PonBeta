@@ -1,6 +1,3 @@
---Protected with PrintFuscator by Mob#1337
---Shit protection okay?
-
 local PRINTFUSCATOR = {                                                                                                                                                                                                                                                                                                         
 --    gbsckztgfpncjaqkupfceycajyhnpbvhgxuwocdjlftljedfgjulexpqbmzxcjxuwgwqsuhsnrsdlydtneourhqybrvcjijfjhtmejwnbjeycrthwfbgknodyxphvcyjjuqsqrqqndotftrllflsqp,
 --    EVJUUNAYJYWFVFEOIDMADXYTCHVGMWJZYXWXYSDVQUWEIWCONLJXGPECHZBCUGNTDXHEHMYAMRITSVGZCDLBQGPWODHRFVOEUVVGDHDUMENDUEZRRBWFQQBODNCMGUERATZGWBWQJTFEZYKRQRDNTT,
